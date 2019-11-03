@@ -4,3 +4,4 @@ $s=implode(',', $a);
 echo "<pre>";
 print_r($a);
 echo $s;
+?>
